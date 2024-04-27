@@ -1,0 +1,11 @@
+C:\Users\infopunto\Documents\proyectos\FormularioCursos\bin\Debug\FormularioCursos.exe.config
+C:\Users\infopunto\Documents\proyectos\FormularioCursos\bin\Debug\FormularioCursos.exe
+C:\Users\infopunto\Documents\proyectos\FormularioCursos\bin\Debug\FormularioCursos.pdb
+C:\Users\infopunto\Documents\proyectos\FormularioCursos\obj\Debug\FormularioCursos.csproj.AssemblyReference.cache
+C:\Users\infopunto\Documents\proyectos\FormularioCursos\obj\Debug\FormularioCursos.Form1.resources
+C:\Users\infopunto\Documents\proyectos\FormularioCursos\obj\Debug\FormularioCursos.Form2.resources
+C:\Users\infopunto\Documents\proyectos\FormularioCursos\obj\Debug\FormularioCursos.Properties.Resources.resources
+C:\Users\infopunto\Documents\proyectos\FormularioCursos\obj\Debug\FormularioCursos.csproj.GenerateResource.cache
+C:\Users\infopunto\Documents\proyectos\FormularioCursos\obj\Debug\FormularioCursos.csproj.CoreCompileInputs.cache
+C:\Users\infopunto\Documents\proyectos\FormularioCursos\obj\Debug\FormularioCursos.exe
+C:\Users\infopunto\Documents\proyectos\FormularioCursos\obj\Debug\FormularioCursos.pdb
